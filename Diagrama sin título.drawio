@@ -1,29 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T16:39:32.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="KhS2Fpmh9DE6XsHuMZiE" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T17:45:43.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="JeoYY_y2jjiNryiJwxbp" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="797" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="42vmOS6OlTIHSnyBO2bc-1" value="&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;You wake up in what it looks to be like a hospital..&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;To your left you see a man laid down in the floor..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;To your right you see a door with a broken window in it..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;What do you do?&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1. Check the man.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;2. Check the door.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="160" height="80" as="geometry" />
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-1" target="42vmOS6OlTIHSnyBO2bc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="210" />
+              <mxPoint x="210" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="42vmOS6OlTIHSnyBO2bc-2" value="&lt;div style=&quot;text-align: left; font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;You start crawling to the man but he hears you..&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Slowly he stands up, the ilumination of the room doesn&#39;t let you get a clear look on his face but he starts walking towards you&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Try to make friends&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Yell at him&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="260" y="50" width="160" height="80" as="geometry" />
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-1" target="42vmOS6OlTIHSnyBO2bc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-1" value="&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;You wake up in what it looks to be like a hospital..&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;To your left you see a man laid down in the floor..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;To your right you see a door with a broken window in it..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;What do you do?&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1. Check the man.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;2. Check the door.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-2" target="42vmOS6OlTIHSnyBO2bc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-2" target="42vmOS6OlTIHSnyBO2bc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-2" value="&lt;div style=&quot;text-align: left; font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;You start walking to the man but he hears you..&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Slowly he stands up, the ilumination of the room doesn&#39;t let you get a clear look on his face but he starts walking towards you&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Try to make friends&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Yell at him&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-3" target="42vmOS6OlTIHSnyBO2bc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-3" target="42vmOS6OlTIHSnyBO2bc-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="42vmOS6OlTIHSnyBO2bc-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;You stand up and walk to the door when SUDDENLY your leg is grabbed&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;It&#39;s the man.. you don&#39;t get a clear look to his face but you can tell something&#39;s wrong with him.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Talk to him&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Kick him&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="160" height="80" as="geometry" />
+          <mxGeometry x="230" y="210" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="42vmOS6OlTIHSnyBO2bc-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-1" target="42vmOS6OlTIHSnyBO2bc-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="280" as="sourcePoint" />
-            <mxPoint x="310" y="230" as="targetPoint" />
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-6" target="42vmOS6OlTIHSnyBO2bc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-6" target="42vmOS6OlTIHSnyBO2bc-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="50" />
+              <mxPoint x="660" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="42vmOS6OlTIHSnyBO2bc-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-1" target="42vmOS6OlTIHSnyBO2bc-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="260" as="sourcePoint" />
-            <mxPoint x="380" y="210" as="targetPoint" />
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You try to calm him by presenting you.. &quot;Hello, how are you? My name is..&quot; before you can finish your sentence, the man starts growling while running towards you&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Go the door&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;Use &quot;ancient&quot; techiques of self defense&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-9" target="42vmOS6OlTIHSnyBO2bc-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="160" />
+              <mxPoint x="670" y="160" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-9" target="42vmOS6OlTIHSnyBO2bc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&quot;HEY YOU! WHAT IS THIS PLACE? WHY AM I HERE? WHO ARE Y-.. &quot; before you can finish your sentence&amp;nbsp;the man starts growling while running towards you&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Use &quot;ancient&quot; techiques of self defense&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Go to the door&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-13" target="42vmOS6OlTIHSnyBO2bc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&quot;Oh thank god I tought you were dead&quot; you say..&lt;/div&gt;&lt;div style=&quot;&quot;&gt;He looks up and you see it.. This man does not have skin on his face, you can clearly see the musles and bones all rigged up.. &quot;W-wha-&quot; SUDDENLY HE BITES YOUR LEG&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;you start kicking him until his head gets deattached from his body..&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. ...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-17" target="42vmOS6OlTIHSnyBO2bc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;LET ME GO&quot;&amp;nbsp; you scream and start kicking his head.. in a bad move HE BITES YOUR LEG but that doesn&#39;t stop you from keep kicking him until his head gets deattached from his body..&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1. ...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-18" target="42vmOS6OlTIHSnyBO2bc-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="370" />
+              <mxPoint x="750" y="230" />
+              <mxPoint x="940" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Even if he&#39;s just a head he doesn&#39;t stop biting and making sounds.. you grab the head and throw it away..&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Your leg is bleeding.. and you don&#39;t know what just happened or what to do..&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1. Panic&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Panic&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="50" as="sourcePoint" />
+            <mxPoint x="390.0000000000002" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="50" />
+              <mxPoint x="650" y="310" />
+              <mxPoint x="395" y="310" />
+              <mxPoint x="395" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-21" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You run to the door but he throws himself at you and grabs your leg&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ...&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="720" y="10" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-24" target="42vmOS6OlTIHSnyBO2bc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-24" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You remember the teachings of &quot;El señor Miyagi&quot; and with the technique of &quot;La grulla&quot; you kick the head off the man&#39;s body..&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Panic&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Panic&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-30" target="42vmOS6OlTIHSnyBO2bc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-30" target="42vmOS6OlTIHSnyBO2bc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-30" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You start panicking&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Panic less&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Panic more&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="900" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-31" target="42vmOS6OlTIHSnyBO2bc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-31" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You panic a little more and start screaming&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. Panic less&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Panic more&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-32" target="42vmOS6OlTIHSnyBO2bc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-32" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You calm down a little and watch trough the window behind you..&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-36" target="42vmOS6OlTIHSnyBO2bc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-36" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;The hospital is full of people.. everyone more damaged and covered of blood than the last one.. and.. but the most important thing is..&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;they are all looking at you..&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-37" target="42vmOS6OlTIHSnyBO2bc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-37" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;THEY START RUNNNING YOU.. YOU TRY TO GO TO THE BACK OF THE ROOM BUT THERE IS NO MORE ROOM.. YOU TRY TO FIGHT THEM BUT THEY ARE SO MANY.. SO MANY HANDS.. so many..&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bites..&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-38" target="42vmOS6OlTIHSnyBO2bc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-38" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="405" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-40" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;...you hear steps...&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. rise.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="42vmOS6OlTIHSnyBO2bc-41" target="42vmOS6OlTIHSnyBO2bc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="42vmOS6OlTIHSnyBO2bc-41" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;You panic a little more and run to open the door..&lt;br&gt;that&#39;s when you see it..&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. ..&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="120" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
